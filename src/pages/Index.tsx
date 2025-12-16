@@ -43,7 +43,7 @@ const Index = () => {
           className={`bg-gradient-to-br from-[#1a5a67]/80 to-[#0d3d47]/80 backdrop-blur-md rounded-3xl p-12 shadow-2xl border border-[#2a6a77] glow-effect transition-all duration-1000 ${isVisible ? 'opacity-100 scale-100' : 'opacity-0 scale-95'}`}
         >
           <h1 className="text-5xl md:text-6xl font-bold text-center mb-12 text-[#FFD700] tracking-wide" style={{ fontFamily: 'Montserrat, sans-serif', textShadow: '0 0 20px rgba(255, 215, 0, 0.5)' }}>
-            Secret Room
+            COSMO-LAND
           </h1>
 
           <div className="space-y-4">
